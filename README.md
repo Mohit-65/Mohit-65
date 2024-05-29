@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-65" alt="mohit-65" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/mohit6512" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mohit6512?logo=twitter&style=for-the-badge" alt="https://twitter.com/mohit6512" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/mohit6512" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mohit6512?logo=twitter&style=for-the-badge" alt="mohit6512" /></a> </p>
 
 - 🔭 I’m currently Studing **Gita Autonomous College Bhubaneswar**
 
